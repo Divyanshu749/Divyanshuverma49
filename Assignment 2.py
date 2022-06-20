@@ -25,8 +25,8 @@ print("E) Index of substring 'a' is:", string.find("a"),"\n")
 print("F) Sting without white spaces: ","\n",string.replace(" ", ""))
 
 #2
-Name = "Dhruv Aggarwal"
-SID = "21107064"
+Name = "Divyanshu Verma"
+SID = "21107109"
 CGPA = "9.9"
 department_name = "Mechanical Engineering"
 
