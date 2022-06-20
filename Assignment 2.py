@@ -47,7 +47,7 @@ print("B. a | b =", a | b)
 print("C. a ^ b =", a ^ b)
 
 # Use of shift(left) operator.
-print("D. a << 2 = ", a << 2)
+print("D. a << 2 = ", a << 2,"and","b<<2=",b<<2)
 
 # Use of shift(both) operator.
 print("E. a >> 2 = ", a >> 2, " and ", "b >> 4 = ", b >> 4)
