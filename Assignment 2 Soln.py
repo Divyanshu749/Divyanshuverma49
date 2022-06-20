@@ -20,7 +20,7 @@ I am from Mechanical Engineering department and my CGPA is 9.9
 A. a & b = 8
 B. a | b = 58
 C. a ^ b = 50
-D. a << 2 =  224
+D. a << 2 =  224 and b<<2 = 40
 E. a >> 2 =  14  and  b >> 4 =  0
 Enter any string: name
 Yes
