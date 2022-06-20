@@ -1,21 +1,27 @@
-Question 1:7x3=21
+enter your marks:49
+D
+Enter year:2002
+Not a leap year
+Question 1:6x8=15
+Wrong. The correct answer is 48
+Question 2:5x6=30
 Right!
-Question 2:5x8=58
-Wrong. The correct answer is 40
-Question 3:3x6=122
+Question 3:9x3=27
+Right!
+Question 4:2x9=19
 Wrong. The correct answer is 18
-Question 4:2x5=32
-Wrong. The correct answer is 10
-Question 5:4x2=215
-Wrong. The correct answer is 8
-Question 6:9x7=21
-Wrong. The correct answer is 63
-Question 7:4x4=16
+Question 5:4x6=24
 Right!
-Question 8:0x1=21
-Wrong. The correct answer is 0
-Question 9:6x1=6
+Question 6:9x7=63
 Right!
-Question 10:5x5=25
+Question 7:8x6=48
 Right!
->
+Question 8:5x5=25
+Right!
+Question 9:9x9=82
+Wrong. The correct answer is 81
+Question 10:7x7=50
+Wrong. The correct answer is 49
+The number of pieces in the bowl are: 177
+
+Process finished with exit code 0
